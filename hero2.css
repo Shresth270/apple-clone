@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 .hero2-img4{
     height:580px;
     width: 100%;
@@ -40,8 +42,8 @@
     position: relative;
 }
 .button1-4{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -55,8 +57,8 @@
     align-items: center;
 }
 .button2-4{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -70,8 +72,8 @@
     align-items: center;
 }
 .button3-4{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -90,12 +92,12 @@
     cursor: pointer;
 }
 .button1-4:hover,.button1-7:hover{
-    background-color:#ffffff9C ;
+    background-color:#ffffff ;
     cursor: pointer;
 }
 .button1-5{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -110,8 +112,8 @@
 }
 
 .button2-5{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -125,8 +127,8 @@
     align-items: center;
 }
 .button3-5{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -140,8 +142,8 @@
     align-items: center;
 }
 .button4-5{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -156,8 +158,8 @@
 }
 
 .button1-6{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -172,8 +174,8 @@
 }
 
 .button2-6{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -188,8 +190,8 @@
 }
 
 .button3-6{
-    font-size: smaller;
-    font-weight: 100;
+    font-family: "Roboto", serif;
+    font-size: small;
     display: flex;
     border-radius: 28px;
     height: 36px;
@@ -203,8 +205,8 @@
     align-items: center;
 }
 .button1-7{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
+    font-size: large;
     display: flex;
     border-radius: 28px;
     height: 45px;

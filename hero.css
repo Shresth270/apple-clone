@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 .hero-img, .hero-img2, .hero-img3{
     height: 580px;
     width: 100%;
@@ -7,8 +12,7 @@
     cursor: pointer;
 }
 .button1{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;
@@ -23,8 +27,7 @@
 }
 
 .button2{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;
@@ -62,8 +65,7 @@
 }
 
 .button1-2{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;
@@ -77,8 +79,7 @@
     left: 631px;
 }
 .button2-2{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;
@@ -93,8 +94,7 @@
 }
 
 .button1-3{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;
@@ -109,8 +109,7 @@
 }
 
 .button2-3{
-    font-size: larger;
-    font-weight: 200;
+    font-family: "Roboto", serif;
     display: flex;
     border-radius: 28px;
     height: 43px;

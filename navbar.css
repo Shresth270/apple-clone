@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 .navbar{
     display: flex;
     margin-left: -8px;
@@ -24,8 +26,9 @@
 }
 
 .elements{
-    font-weight: lighter;
-    font-size: small;
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    font-size: smaller;
     margin-left: 20px;
     display: flex;
     justify-content: center;
@@ -43,7 +46,8 @@
     width: 29px; 
 }
 .offer{
-    font-style:initial;
+    font-family: "Roboto", serif;
+    font-size: medium;
     display: flex;
     justify-content: center;
     align-items: center;
