@@ -1,0 +1,128 @@
+.hero-img, .hero-img2, .hero-img3{
+    height: 580px;
+    width: 100%;
+    margin-left: -8px;
+}
+.hero-img:hover,.hero-img2:hover,.hero-img3:hover{
+    cursor: pointer;
+}
+.button1{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 131px;
+    color: #ffffff;
+    background-color: #0071e3;
+    position: relative;
+    bottom: 116px;
+    left: 639px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 72px;
+    bottom: 116px;
+    left: 655px;
+    background-color:#0071e3 ;
+    position: relative;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+
+.button1:hover,.button1-2:hover,.button1-3:hover{
+    background-color:#2c8ae8 ;
+    cursor: pointer;
+}
+
+.button2:hover,.button2-2:hover,.button2-3:hover{
+    content: Buy;
+    color: #ffffff;
+    background-color:#2c8ae8 ;
+    cursor: pointer;
+}
+.buttons,buttons2{
+    display: flex;
+    position: relative;;
+}
+
+.hero-img2{
+    margin-top: -31px;
+}
+.hero-img3{
+    margin-top: -76px;
+}
+
+.button1-2{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 132px;
+    background-color:#0071e3 ;
+    position: relative;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    bottom: 132px;
+    left: 631px;
+}
+.button2-2{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 72px;
+    bottom: 174px;
+    left: 781px;
+    background-color:#0071e3 ;
+    position: relative;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+
+.button1-3{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 132px;
+    background-color:#0071e3 ;
+    position: relative;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    bottom: 388px;
+    left: 634px;
+}
+
+.button2-3{
+    font-size: larger;
+    font-weight: 200;
+    display: flex;
+    border-radius: 28px;
+    height: 43px;
+    width: 72px;
+    bottom: 431px;
+    left: 781px;
+    background-color:#0071e3 ;
+    position: relative;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
