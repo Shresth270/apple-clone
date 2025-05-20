@@ -17,6 +17,8 @@
 }
 .elements p:hover,.logo:hover,.search:hover,.cart:hover{
     cursor: pointer;
+    cursor:pointer;
+    
 }
 
 .logo{
